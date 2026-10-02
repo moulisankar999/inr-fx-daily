@@ -31,6 +31,10 @@ Base URL: `https://api.frankfurter.dev/v1`
 
 Unsupported codes show a friendly error (Frankfurter only covers the ECB currency set).
 
+## Live demo
+
+https://moulisankar999.github.io/inr-fx-daily/
+
 ## Run locally
 
 ```bash
