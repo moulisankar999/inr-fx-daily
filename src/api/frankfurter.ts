@@ -1,4 +1,4 @@
-const API_BASE = 'https://api.frankfurter.app'
+const API_BASE = 'https://api.frankfurter.dev/v1'
 
 export type CurrencyMap = Record<string, string>
 

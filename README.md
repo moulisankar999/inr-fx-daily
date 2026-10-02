@@ -16,11 +16,11 @@ A polished single-page app for daily foreign-exchange rates **always versus INR*
 ## Stack
 
 - Vite + React + TypeScript
-- [Frankfurter API](https://www.frankfurter.app) — free ECB reference rates, **no API key**
+- [Frankfurter API](https://frankfurter.dev) — free ECB reference rates, **no API key**
 
 ## API used
 
-Base URL: `https://api.frankfurter.app`
+Base URL: `https://api.frankfurter.dev/v1`
 
 | Endpoint | Purpose |
 | --- | --- |
